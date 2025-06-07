@@ -1,1 +1,1 @@
-# thirdeye.github.io
+# 3deye-ai.github.io
